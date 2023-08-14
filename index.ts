@@ -1,1 +1,1 @@
-console.log("i am shahid from pakisatn,i love to learn new technology and enjoy");
+console.log("i am shahid from pakisatn,i love to learn new technology");
